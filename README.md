@@ -1,4 +1,18 @@
-### Hola soy, Luis Andrés Bolaños Yapo👋
+# Hi,I´m Luis Andrés Bolaños Yapo👋
+### Front-end Developer and Web Designer
+
+##### Skills
+* HTML5
+* CSS3
+* JAVASCRIPT
+* PHP
+
+##### Styding
+* REACTJS
+* ANGULAR
+* TYPESCRIPT
+* WORDPRESS
+* PRESTASHOP
 
 <!--
 **byluisandres/byluisandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

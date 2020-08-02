@@ -1,4 +1,4 @@
-# Hi,I´m Luis Andrés Bolaños Yapo👋
+# Hi,I´m Luis Andrés Bolaños Yapo 👋
 ### Front-end Developer and Web Designer
 
 ##### Skills
@@ -13,6 +13,15 @@
 * TYPESCRIPT
 * WORDPRESS
 * PRESTASHOP
+
+##### CONTACT
+[linkedin](https://www.linkedin.com/in/luis-andr%C3%A9s-bola%C3%B1os-yapo-46ab3716a/)
+```javascript
+var email = "luisandres33bolanos@gmail.com";
+var telf= 654350619;
+
+```
+
 
 <!--
 **byluisandres/byluisandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

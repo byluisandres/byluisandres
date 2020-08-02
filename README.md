@@ -1,11 +1,11 @@
 # Hi,I´m Luis Andrés Bolaños Yapo 👋
 ### Front-end Developer and Web Designer
-##### Skills
+##### SKILLS
 > * HTML5
 > * CSS3
 > * JAVASCRIPT
 > * PHP
-##### Styding
+##### STUDYNG
 > * REACTJS
 > * ANGULAR
 > * TYPESCRIPT

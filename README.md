@@ -11,6 +11,7 @@
 > * TYPESCRIPT
 > * WORDPRESS
 > * PRESTASHOP
+> * PWA
 ##### CONTACT
 [linkedin](https://www.linkedin.com/in/luis-andr%C3%A9s-bola%C3%B1os-yapo-46ab3716a/)
 ```javascript

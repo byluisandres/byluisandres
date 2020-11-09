@@ -12,8 +12,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
+![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
+![Angular](https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular)
+![Sass](https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass)
 ## CONTACT
 [linkedin](https://www.linkedin.com/in/luis-andr%C3%A9s-bola%C3%B1os-yapo-46ab3716a/)
 ```javascript

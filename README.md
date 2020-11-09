@@ -1,7 +1,7 @@
 # Hi,I´m Luis Andrés Bolaños Yapo 👋
 ### Front-end Developer and Web Designer
 
-## ⚡ Technologies
+## ⚡ TECHONOLOGIES
 ### Front-end
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F1C40F?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -18,12 +18,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-F8F9F9?style=flat-square&logo=mysql)
 ## Hybrid Mobile
 ![Ionic](https://img.shields.io/badge/-Ionic-F8F9F9?style=flat-square&logo=ionic)
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+## Others
+![Git](https://img.shields.io/badge/-Git-F4F6F7?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-## CONTACT
+## 📫 CONTACT
 [linkedin](https://www.linkedin.com/in/luis-andr%C3%A9s-bola%C3%B1os-yapo-46ab3716a/)
 ```javascript
 var email = "luisandres33bolanos@gmail.com";

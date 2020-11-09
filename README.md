@@ -3,13 +3,13 @@
 
 ## ⚡ Technologies
 ### Front-end
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F1C40F?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular)
+![Angular](https://img.shields.io/badge/-angular-21618C?style=flat-square&logo=angular&logoColor=78281F)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass)
+![Sass](https://img.shields.io/badge/-sass-white?style=flat-square&logo=sass)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ### Back-end
 ![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)

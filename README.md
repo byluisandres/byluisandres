@@ -9,13 +9,13 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-angular-21618C?style=flat-square&logo=angular&logoColor=78281F)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-sass-white?style=flat-square&logo=sass)
+![Sass](https://img.shields.io/badge/-sass-F8F9F9?style=flat-square&logo=sass)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ### Back-end
-![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
+![Php](https://img.shields.io/badge/-php-F8F9F9?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-laravel-F8F9F9?style=flat-square&logo=laravel)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-F8F9F9?style=flat-square&logo=mysql)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)

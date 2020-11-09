@@ -1,17 +1,6 @@
 # Hi,I´m Luis Andrés Bolaños Yapo 👋
 ### Front-end Developer and Web Designer
-##### SKILLS
-> * HTML5
-> * CSS3
-> * JAVASCRIPT
-> * PHP
-##### STUDYNG
-> * REACTJS
-> * ANGULAR
-> * TYPESCRIPT
-> * WORDPRESS
-> * PRESTASHOP
-> * PWA
+
 ##### CONTACT
 [linkedin](https://www.linkedin.com/in/luis-andr%C3%A9s-bola%C3%B1os-yapo-46ab3716a/)
 ```javascript

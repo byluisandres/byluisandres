@@ -1,15 +1,7 @@
 # Hi,I´m Luis Andrés Bolaños Yapo 👋
 ### Front-end Developer and Web Designer
 
-## CONTACT
-[linkedin](https://www.linkedin.com/in/luis-andr%C3%A9s-bola%C3%B1os-yapo-46ab3716a/)
-```javascript
-var email = "luisandres33bolanos@gmail.com";
-var telf= 654350619;
-
-```
 ## ⚡ Technologies
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -23,6 +15,11 @@ var telf= 654350619;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+## CONTACT
+[linkedin](https://www.linkedin.com/in/luis-andr%C3%A9s-bola%C3%B1os-yapo-46ab3716a/)
+```javascript
+var email = "luisandres33bolanos@gmail.com";
+var telf= 654350619;
 <!--
 **byluisandres/byluisandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

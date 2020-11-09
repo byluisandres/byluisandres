@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 📫 CONTACT
-[linkedin](https://www.linkedin.com/in/luis-andr%C3%A9s-bola%C3%B1os-yapo-46ab3716a/)
+![linkedin](https://www.linkedin.com/in/luis-andr%C3%A9s-bola%C3%B1os-yapo-46ab3716a/)
 ```javascript
 var email = "luisandres33bolanos@gmail.com";
 var telf= 654350619;

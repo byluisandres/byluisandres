@@ -6,8 +6,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F1C40F?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-424949?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-angular-21618C?style=flat-square&logo=angular&logoColor=78281F)
+![React](https://img.shields.io/badge/-React-424949?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-sass-F8F9F9?style=flat-square&logo=sass)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -15,6 +15,7 @@
 ![Php](https://img.shields.io/badge/-php-F8F9F9?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-laravel-F8F9F9?style=flat-square&logo=laravel)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-F8F9F9?style=flat-square&logo=mysql)
 ## Hybrid Mobile
 ![Ionic](https://img.shields.io/badge/-Ionic-F8F9F9?style=flat-square&logo=ionic)

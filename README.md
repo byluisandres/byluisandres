@@ -17,6 +17,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-F8F9F9?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-FIREBASE-white?style=flat-square&logo=firebase)
 ## Hybrid Mobile
 ![Ionic](https://img.shields.io/badge/-Ionic-F8F9F9?style=flat-square&logo=ionic)
 ## Others

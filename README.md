@@ -7,7 +7,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=square&logo=css3)
 ![Angular](https://img.shields.io/badge/-ANGULAR-blue?style=square&logo=angular&logoColor=78281F)
-![React](https://img.shields.io/badge/-RECT-424949?style=square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-563D7C?style=square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-SASS-F8F9F9?style=square&logo=sass)
 ![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-007ACC?style=square&logo=typescript)

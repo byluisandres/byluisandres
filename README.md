@@ -16,12 +16,12 @@
 ![Nodejs](https://img.shields.io/badge/-NODEJS-black?style=square&logo=Node.js)-->
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-F8F9F9?style=square&logo=mysql)
-![Firebase](https://img.shields.io/badge/-FIREBASE-white?style=square&logo=firebase)
+<!--![Firebase](https://img.shields.io/badge/-FIREBASE-white?style=square&logo=firebase)-->
 ### Cms
 ![Wordpress](https://img.shields.io/badge/-WORDPRESS-black?style=square&logo=wordpress&logoColor=white)
 ![Prestashop](https://img.shields.io/badge/-PRESTASHOP-white?style=square&logo=prestashop&logoColor=black)
-## Hybrid Mobile
-![Ionic](https://img.shields.io/badge/-IONIC-F8F9F9?style=square&logo=ionic)
+<!--## Hybrid Mobile
+![Ionic](https://img.shields.io/badge/-IONIC-F8F9F9?style=square&logo=ionic)-->
 ## Others
 ![Git](https://img.shields.io/badge/-GIT-F4F6F7?style=square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=square&logo=github)

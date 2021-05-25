@@ -1,5 +1,5 @@
 # Hola, Soy Luis Andrés Bolaños Yapo 👋
-### Desarrollador Web
+### Desarrollador de Aplicaciones Web
 
 ## ⚡ TECNOLOGÍAS
 ### Front-end

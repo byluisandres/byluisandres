@@ -15,11 +15,11 @@
 ![Php](https://img.shields.io/badge/-PHP-F8F9F9?style=square&logo=php)
 ![Laravel](https://img.shields.io/badge/-LARAVEL-F8F9F9?style=square&logo=laravel)
 
-### Database
+### Base de datos
 ![MySQL](https://img.shields.io/badge/-MySQL-F8F9F9?style=square&logo=mysql)
 <!--![Firebase](https://img.shields.io/badge/-FIREBASE-white?style=square&logo=firebase)-->
 
-## Others
+## Otros
 ![Git](https://img.shields.io/badge/-GIT-F4F6F7?style=square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=square&logo=github)
 

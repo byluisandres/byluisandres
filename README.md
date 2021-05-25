@@ -10,18 +10,15 @@
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-563D7C?style=square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-SASS-F8F9F9?style=square&logo=sass)
 ![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-007ACC?style=square&logo=typescript)
+
 ### Back-end
 ![Php](https://img.shields.io/badge/-PHP-F8F9F9?style=square&logo=php)
-<!--![Laravel](https://img.shields.io/badge/-LARAVEL-F8F9F9?style=square&logo=laravel)
-![Nodejs](https://img.shields.io/badge/-NODEJS-black?style=square&logo=Node.js)-->
+![Laravel](https://img.shields.io/badge/-LARAVEL-F8F9F9?style=square&logo=laravel)
+
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-F8F9F9?style=square&logo=mysql)
 <!--![Firebase](https://img.shields.io/badge/-FIREBASE-white?style=square&logo=firebase)-->
-### Cms
-![Wordpress](https://img.shields.io/badge/-WORDPRESS-black?style=square&logo=wordpress&logoColor=white)
-![Prestashop](https://img.shields.io/badge/-PRESTASHOP-white?style=square&logo=prestashop&logoColor=black)
-<!--## Hybrid Mobile
-![Ionic](https://img.shields.io/badge/-IONIC-F8F9F9?style=square&logo=ionic)-->
+
 ## Others
 ![Git](https://img.shields.io/badge/-GIT-F4F6F7?style=square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=square&logo=github)
@@ -32,17 +29,4 @@
 var email = "luisandres33bolanos@gmail.com";
 var telf= 654350619;
 ```
-<!--
-**byluisandres/byluisandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

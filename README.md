@@ -1,4 +1,4 @@
-# Hi,I´m Luis Andrés Bolaños Yapo 👋
+# Hola, Soy Luis Andrés Bolaños Yapo 👋
 ### Desarrollador Web
 
 ## ⚡ TECNOLOGÍAS
